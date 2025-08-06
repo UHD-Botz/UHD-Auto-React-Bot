@@ -1,0 +1,11 @@
+pyrofork>=2.3.63
+tgcrypto
+motor
+aiohttp
+pytz
+emoji_list
+Flask
+Jinja2
+gunicorn
+werkzeug
+itsdangerous
