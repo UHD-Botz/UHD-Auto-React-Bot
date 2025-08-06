@@ -21,3 +21,9 @@ LOG_CHANNEL: int = int(os.environ.get("LOG_CHANNEL", ""))
 IS_FSUB: bool = os.environ.get("IS_FSUB", "False").lower() == "true"
 
 AUTH_CHANNELS: List[int] = list(map(int, os.environ.get("AUTH_CHANNEL", "").split()))
+
+# ───────────────────── 👑 UHD Auto Reaction Bot ─────────────────────
+# 🛠️ Developed & Maintained by: MR Ankan
+# 🌐 Telegram: https://t.me/UHD_Bots | Devoloper: https://t.me/Ankan_Contact_Bot
+# 📦 GitHub: https://github.com/UHD-Botz
+# 🔐 Licensed under GPL-3.0 | ❤️ Made with Love ❤️
