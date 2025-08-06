@@ -33,7 +33,7 @@
 
 ### 🔵 1. <strong>Deploy on Heroku (Best)</strong>
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UHD-Official/UHD-Auto-Reaction-Bot)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UHD-Botz/UHD-Auto-React-Bot)
 
 ---
 
@@ -51,7 +51,7 @@
 
 ### 🔴 4. <strong>Deploy on Render</strong>
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/UHD-Official/UHD-Auto-Reaction-Bot)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/UHD-Botz/UHD-Auto-React-Bot)
 
 ---
 
@@ -59,8 +59,8 @@
 
 ```bash
 # Clone the repo
-git clone https://github.com/UHD-Official/UHD-Auto-Reaction-Bot
-cd UHD-Auto-Reaction-Bot
+git clone https://github.com/UHD-Botz/UHD-Auto-React-Bot
+cd UHD-Auto-React-Bot
 
 # Create virtual environment and install dependencies
 python3 -m venv venv && source venv/bin/activate
