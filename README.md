@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <i>Next-Gen Telegram Bot that reacts instantly to every message in your group or channel using intelligent emoji rotations. Built with performance-first Pyrogram core, cloud-ready architecture, and AI-inspired admin controls.</i>
+  <i>A smart Telegram bot that reacts instantly to every message with dynamic emoji responses. Also Work Gif, Stickers, Fast and responsible.</i>
 </p>
 
 <p align="center">
