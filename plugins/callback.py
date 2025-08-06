@@ -52,10 +52,10 @@ async def callback_query_handler(client, query: CallbackQuery):
             text.MENU,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton("UPDATES", url="https://t.me/UHD_Bots"),
-                 InlineKeyboardButton("SUPPORT", url="https://t.me/+fx7ngJZDyFlhNTM1")],
-                [InlineKeyboardButton("BACK", callback_data="start"),
-                 InlineKeyboardButton("CLOSE", callback_data="close")]
+                [InlineKeyboardButton("ᴜʜᴅ ᴏғғɪᴄɪᴀʟ", url="https://uhd-official.vercel.app/"),
+                 InlineKeyboardButton("ᴅᴏɴᴀᴛɪᴏɴ", url="https://uhd-donate-page.vercel.app/")],
+                [InlineKeyboardButton("ʙᴏᴛs", url="https://t.me/UHD_Bots/3"),
+                 InlineKeyboardButton("ʜᴏᴍᴇ", callback_data="start")]
 
             ])
         )
