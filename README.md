@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/UHD-Official/UHD-Auto-Reaction-Bot?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/UHD-Official/UHD-Auto-React-Bot?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20By-UHD%20Official-purple?style=for-the-badge&logo=telegram" />
   <img src="https://img.shields.io/badge/Powered%20By-Pyrogram-2c2c2c?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/MongoDB-Async-brightgreen?style=for-the-badge&logo=mongodb" />
