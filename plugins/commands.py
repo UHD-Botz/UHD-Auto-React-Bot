@@ -30,11 +30,11 @@ async def start_cmd(client, message):
             [InlineKeyboardButton("➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url=f"https://t.me/{client.me.username}?startgroup=true")],
             [
                 InlineKeyboardButton("🔥 ᴍᴇɴᴜ 🔥", callback_data="menu"),
-                InlineKeyboardButton("• SPECIAL •", callback_data="special")
+                InlineKeyboardButton("❤️ ᴅᴏɴᴀᴛᴇ ❤️", url="https://uhd-donate-page.vercel.app/")
             ],
             [
-                InlineKeyboardButton("• HELP •", callback_data="help"),
-                InlineKeyboardButton("• ABOUT •", callback_data="about")
+                InlineKeyboardButton("😃 ʜᴇʟᴘ 😃", callback_data="help"),
+                InlineKeyboardButton("🤖 ᴀʙᴏᴜᴛ 🤖", callback_data="about")
             ],
             [InlineKeyboardButton("➕ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ➕", url=f"https://t.me/{client.me.username}?startchannel=true")]
         ])
@@ -48,7 +48,7 @@ async def total_users(client, message):
         await message.reply(
             f"👥 **Total Users:** {len(users)}",
             reply_markup=InlineKeyboardMarkup([
-                [InlineKeyboardButton("🎭 Close", callback_data="close")]
+                [InlineKeyboardButton("🎭 ᴄʟᴏsᴇ 🎭", callback_data="close")]
             ])
         )
     except Exception as e:
@@ -68,10 +68,10 @@ async def ping_command(client, message):
 
 @Client.on_message(filters.command("restart") & filters.private & filters.user(ADMIN))
 async def restart_command(client, message):
-    msg = await message.reply("♻️ Restarting bot...")
+    msg = await message.reply("♻️ ʀᴇsᴛᴀʀᴛɪɴɢ ʙᴏᴛ...")
     try:
         await asyncio.sleep(2)
-        await msg.edit("✅ Bot restarted successfully!")
+        await msg.edit("✅ ʙᴏᴛ ʀᴇsᴛᴀʀᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ!")
     except:
         pass
     os.execl(sys.executable, sys.executable, *sys.argv)
