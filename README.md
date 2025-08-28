@@ -1,8 +1,4 @@
 <p align="center">
-  <i>A smart Telegram bot that reacts instantly to every message with dynamic emoji responses. Also Work Gif, Stickers, Fast and responsible.</i>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/license/UHD-Botz/UHD-Auto-React-Bot?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Made%20By-UHD%20Official-purple?style=for-the-badge&logo=telegram" />
   <img src="https://img.shields.io/badge/Powered%20By-Pyrogram-2c2c2c?style=for-the-badge&logo=python" />
