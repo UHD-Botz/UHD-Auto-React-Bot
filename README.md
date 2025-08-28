@@ -45,3 +45,16 @@
 
 * [![MR ANKAN](https://img.shields.io/static/v1?label=MR&message=ANKAN&color=green)](https://t.me/UHD_Official)
 * [![UHD Official](https://img.shields.io/static/v1?label=UHD&message=Official&color=purple)](https://t.me/UHD_Official)
+
+---
+
+## 📜 License
+
+<p align="center">
+  <a href="https://www.gnu.org/licenses/gpl-3.0.html">
+    <img src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge" alt="license"/>
+  </a>
+</p>
+
+This project is licensed under the **GNU General Public License v3.0** – see the [LICENSE](LICENSE) file for details.
+
