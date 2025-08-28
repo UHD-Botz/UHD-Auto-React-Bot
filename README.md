@@ -21,49 +21,6 @@
 
 ---
 
-## 🚀 One-Click Deployment
-
-### 🔵 1. <strong>Deploy on Heroku (Best)</strong>
-
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UHD-Botz/UHD-Auto-React-Bot)
-
----
-
-### 🟣 2. <strong>Deploy on Koyeb</strong>
-
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=uhd-auto-react-bot&repository=UHD-Botz%2FUHD-Auto-React-Bot&branch=main&run_command=python3+bot.py&instance_type=free&instances_min=0&autoscaling_sleep_idle_delay=3600&env%5BAPI_ID%5D={{YOUR_API_ID}}&env%5BAPI_HASH%5D={{YOUR_API_HASH}}&env%5BBOT_TOKEN%5D={{YOUR_BOT_TOKEN}}&env%5BDB_NAME%5D={{YOUR_DB_NAME}}&env%5BDB_URI%5D={{YOUR_DB_URI}}&env%5BLOG_CHANNEL%5D={{YOUR_LOG_CHANNEL}}&env%5BADMIN%5D={{YOUR_ADMIN_ID}})
-
----
-
-### 🟠 3. <strong>Deploy on Railway</strong>
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/UHD-Botz/UHD-Auto-React-Bot)
-
----
-
-### 🔴 4. <strong>Deploy on Render</strong>
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https://github.com/UHD-Botz/UHD-Auto-React-Bot)
-
----
-
-### ⚙️ 5. <strong>Deploy on VPS (Advanced)</strong>
-
-```bash
-# Clone the repo
-git clone https://github.com/UHD-Botz/UHD-Auto-React-Bot
-cd UHD-Auto-React-Bot
-
-# Create virtual environment and install dependencies
-python3 -m venv venv && source venv/bin/activate
-pip install -r requirements.txt
-
-# Run bot
-python3 bot.py
-```
-
----
-
 ### 🛠 Support
 
 <h2 align="center">💬 Need Support?</h2>
