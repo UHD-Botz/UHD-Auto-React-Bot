@@ -37,7 +37,7 @@
 
 ## 👨‍💻 Developer
 
-- [![MR ANKAN](https://img.shields.io/static/v1?label=MR&message=ANKAN&color=green)](https://t.me/UHD_Official)  
+- [![MR ANKAN](https://img.shields.io/static/v1?label=MR&message=ANKAN&color=green)](https://t.me/Ankan_Contact_Bot)  
 - [![UHD Official](https://img.shields.io/static/v1?label=UHD&message=Official&color=purple)](https://t.me/UHD_Official)
 
 ---
