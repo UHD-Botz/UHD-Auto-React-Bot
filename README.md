@@ -11,7 +11,7 @@
 
 | 🚀 Feature             | 🧠 Description                                                                 |
 |------------------------|--------------------------------------------------------------------------------|
-| 🤖 Auto Emoji React    | Reacts to every message in group/channel with rotating emojis                               |
+| 🤖 Auto Emoji React    | Reacts to every message in group/channel with rotating emojis                  |
 | 🚫 Ban / Unban         | Block users from using bot using `/ban` & `/unban`                            |
 | 📊 Stats Command       | Admin-only: See total number of users in the bot                              |
 | 🛠 Restart             | Instantly restart the bot from Telegram with `/restart`                       |
@@ -21,18 +21,12 @@
 
 ---
 
-### 🛠 Support
-
-<h2 align="center">💬 Need Support?</h2>
+## 💬 Support
 
 <p align="center">
   💡 <strong>Need Help? Facing an Issue?</strong><br>
   Join our <a href="https://t.me/UHDBots_Support">Support Group</a> to ask questions, report bugs, or suggest new features.<br>
-  Our Team <b>24/7 Support</b> is always ready to assist you.
-</p>
-
-<p align="center">
-  📢 <b>Stay updated with latest updates on our <a href="https://t.me/UHD_Bots">Updates Channel</b> </a>
+  📢 Stay updated with latest news on our <a href="https://t.me/UHD_Bots">Updates Channel</a>.
 </p>
 
 <p align="center">
@@ -41,10 +35,10 @@
 
 ---
 
-### 👨‍💻 Developer
+## 👨‍💻 Developer
 
-* [![MR ANKAN](https://img.shields.io/static/v1?label=MR&message=ANKAN&color=green)](https://t.me/UHD_Official)
-* [![UHD Official](https://img.shields.io/static/v1?label=UHD&message=Official&color=purple)](https://t.me/UHD_Official)
+- [![MR ANKAN](https://img.shields.io/static/v1?label=MR&message=ANKAN&color=green)](https://t.me/UHD_Official)  
+- [![UHD Official](https://img.shields.io/static/v1?label=UHD&message=Official&color=purple)](https://t.me/UHD_Official)
 
 ---
 
@@ -57,4 +51,3 @@
 </p>
 
 This project is licensed under the **GNU General Public License v3.0** – see the [LICENSE](LICENSE) file for details.
-
