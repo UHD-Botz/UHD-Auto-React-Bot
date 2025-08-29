@@ -5,11 +5,11 @@ import random
 class text(object):
   START = """<b>{},
 
-ɪ ᴀᴍ sɪᴍᴘʟᴇ ʙᴜᴛ ᴘᴏᴡᴇʀꜰᴜʟʟ ᴀᴜᴛᴏ ʀᴇᴀᴄᴛɪᴏɴ ʙᴏᴛ.
+ɪ ᴀᴍ ʟᴀᴛᴇsᴛ ɢᴇɴᴇʀᴀᴛɪᴏɴ ᴘᴏᴡᴇʀꜰᴜʟʟ ᴀᴜᴛᴏ ʀᴇᴀᴄᴛɪᴏɴ ʙᴏᴛ.
 
-ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀs ᴀ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴏʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ
+ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴀs ᴀ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴏʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ.
 
-<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/ANKAN_Contact_BOT'>ᴀɴᴋᴀɴ</a></blockquote></b>"""
+<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Ankan_Contact_Bot'>ᴀɴᴋᴀɴ</a></blockquote></b>"""
 
   LOG = """👁️‍🗨️ 𝘜𝘚𝘌𝘙 𝘋𝘌𝘛𝘈𝘐𝘓𝘚
 
@@ -22,13 +22,13 @@ class text(object):
   
   ABOUT = """<b>📜 Cʜᴇᴄᴋ Aʙᴏᴜᴛ:
   
-Lɪʙʀᴀʀʏ: Pʏʀᴏɢʀᴀᴍ 📚
-Lᴀɴɢᴜᴀɢᴇ: ᴊᴀᴠᴀ 🧑‍💻
-Sᴇʀᴠᴇʀ: ʜᴇʀᴜᴋᴏ 🌐
-Bᴜɪʟᴅ Sᴛᴀᴛᴜs: V4.7 🚀
-Sᴏᴜʀᴄᴇ Cᴏᴅᴇ: (ᴘᴀɪᴅ) 💸 
+📚 Lɪʙʀᴀʀʏ: Pʏʀᴏɢʀᴀᴍ
+🧑‍💻 Lᴀɴɢᴜᴀɢᴇ: ᴊᴀᴠᴀ
+🌐 Sᴇʀᴠᴇʀ: ʜᴇʀᴜᴋᴏ
+🚀 ᴠᴇʀsɪᴏɴ: V2.0
+👇 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ: (ᴄʟɪᴄᴋ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴ) 
 
-<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/ANKAN_Contact_BOT'>ᴀɴᴋᴀɴ</a></blockquote></b>"""
+<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Ankan_Contact_Bot'>ᴀɴᴋᴀɴ</a></blockquote></b>"""
   
   HELP = """<b>{},
 
@@ -36,14 +36,7 @@ Sᴏᴜʀᴄᴇ Cᴏᴅᴇ: (ᴘᴀɪᴅ) 💸
 
 ᴊᴜsᴛ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴏʀ ᴄʜᴀɴɴᴇʟ, ᴀɴᴅ ᴇɴᴊᴏʏ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ᴍᴀɢɪᴄᴀʟ ʀᴇᴀᴄᴛɪᴏɴs 💞
 
-<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/ANKAN_Contact_BOT'>ᴀɴᴋᴀɴ</a></blockquote></b>"""
+<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Ankan_Contact_Bot'>ᴀɴᴋᴀɴ</a></blockquote></b>"""
 
   MENU = """
-🔥 **Auto Reaction Bot Menu** 🔥
-
-➤ Reacts automatically to messages in groups or channels  
-➤ Add me to your group and watch reactions appear instantly  
-➤ Customize emoji styles and behavior (coming soon)
-
-More powerful features on the way 🚀
-"""
+🔥 **ʜᴇʀᴇ ɪꜱ ᴀʟʟ ɪᴍᴘᴏʀᴛᴀɴᴛ ʙᴜᴛᴛᴏɴs ᴄʜᴇᴄᴋ ɪᴛ ᴏᴜᴛ** 🔥"""
