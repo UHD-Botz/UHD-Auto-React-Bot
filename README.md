@@ -21,7 +21,7 @@
 
 ---
 
-## Variables
+## 🔥 Variables & Deployments
 
 ### Required Variables
 * <b>`BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
