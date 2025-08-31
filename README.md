@@ -22,9 +22,7 @@
 ---
 
 <details>
-<summary><b>Deploy to Heroku</b></summary>
-
-<a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                
+<summary><b>Deploy to Heroku</b></summary>      
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/PROFESSOR-BOT)
 </details>
