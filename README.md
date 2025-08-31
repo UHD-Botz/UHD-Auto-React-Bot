@@ -40,6 +40,12 @@
 </details>
 
 <details>
+<summary><b>Deploy to Railway</b></summary>      
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/UHD-Botz/UHD-Auto-React-Bot)
+</details>
+
+<details>
 <summary><b>Deploy to VPS</b></summary>
 
 ```bash
