@@ -50,6 +50,8 @@ cd PROFESSOR-BOT
 bash vps.sh
 ```
 
+---
+
 ## 💬 Support
 
 <p align="center">
