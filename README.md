@@ -34,6 +34,12 @@
 </details>
 
 <details>
+<summary><b>Deploy to Render</b></summary>      
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/UHD-Botz/UHD-Auto-React-Bot)
+</details>
+
+<details>
 <summary><b>Deploy to VPS</b></summary>
 
 ```bash
