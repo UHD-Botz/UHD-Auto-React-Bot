@@ -46,7 +46,8 @@ git clone https://github.com/MrMKN/PROFESSOR-BOT
 
 cd PROFESSOR-BOT
 
-bash vps.sh```
+bash vps.sh
+```
 </details>                                                                                                                                           
 
 ---
