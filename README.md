@@ -39,15 +39,16 @@
 <summary><b>Deploy to VPS</b></summary>
 
 ```bash
-apt update && apt upgrade -y
+# Clone The Repository
+git clone https://github.com/UHD-Botz/UHD-Auto-React-Bot.git
 
-apt install git -y  
+# Install Required Packages
+pip3 install -r requirements.txt
 
-git clone https://github.com/MrMKN/PROFESSOR-BOT 
+# Edit config.py (add your API_ID, API_HASH, BOT_TOKEN, etc.)
 
-cd PROFESSOR-BOT
-
-bash vps.sh
+# Run The Bot
+python3 bot.py
 ```
 </details>
 
