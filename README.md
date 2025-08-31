@@ -36,9 +36,9 @@
 </details>
 
 <details>
-<summary><b>Deploy to VPS</b></summary>                                                                                                                      
-```
-bash
+<summary><b>Deploy to VPS</b></summary>
+
+```bash
 apt update && apt upgrade -y
 
 apt install git -y  
@@ -47,10 +47,10 @@ git clone https://github.com/MrMKN/PROFESSOR-BOT
 
 cd PROFESSOR-BOT
 
-bash vps.sh```
-</details>                                                                                                                                           
+bash vps.sh
+```
+</details>
 
----
 
 ## 💬 Support
 
