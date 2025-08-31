@@ -1,3 +1,8 @@
+# Don't Remove Credit @UHD_Bots & @UHD_Official  
+# Subscribe YouTube Channel @DIESENGAMINGYT for Gaming Videos  
+# Any Problems Or Have Suggestions For Improvements, Join Support Group @UHDBots_Support
+
+
 import os
 from typing import List
 
