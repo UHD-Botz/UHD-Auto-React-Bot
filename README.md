@@ -36,7 +36,7 @@
 <details>
 <summary><b>Deploy to Heroku</b></summary>      
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/UHD-Botz/UHD-Auto-React-Bot)
+[![Deploy](https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku)](https://heroku.com/deploy?template=https://github.com/UHD-Botz/UHD-Auto-React-Bot)
 </details>
 
 <details>
