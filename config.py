@@ -1,6 +1,6 @@
-# Don't Remove Credit @UHD_Bots & @UHD_Official  
-# Subscribe YouTube Channel @DIESENGAMINGYT for Gaming Videos  
-# Any Problems Or Have Suggestions For Improvements, Join Support Group @UHDBots_Support
+# ⚡️ Do Not Remove Credit - Made by @UHD_Bots
+# 💬 For Any Help Join Support Group: @UHDBots_Support
+# 🚫 Removing or Modifying these Lines will Cause the bot to Stop Working.
 
 
 import os
