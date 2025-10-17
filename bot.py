@@ -1,4 +1,11 @@
+# ⚡️ Do Not Remove Credit - Made by @UHD_Bots
+# 💬 For Any Help Join Support Group: @UHDBots_Support
+# 🚫 Removing or Modifying these Lines will Cause the bot to Stop Working.
+
+
+
 import os
+import asyncio
 from datetime import datetime
 from pytz import timezone
 from pyrogram import Client
@@ -33,24 +40,27 @@ class Bot(Client):
         await app.setup()
         try:
             await web.TCPSite(app, "0.0.0.0", int(os.getenv("PORT", 8080))).start()
-            print("Web server started.")
+            print("✅ Web server started successfully.")
         except Exception as e:
-            print(f"Web server error: {e}")
-
+            print(f"⚠️ Web server error: {e}")
 
         await super().start()
-        me = await self.get_me()
-        print(f"Bot Started as {me.first_name}")
-        if isinstance(ADMIN, int):
-            try:
-                await self.send_message(ADMIN, f"**{me.first_name} is started...**")
-            except Exception as e:
-                print(f"Error sending message to admin: {e}")
+        self.me = await self.get_me()
+        print(f"🤖 Bot Started as {self.me.first_name}")
+
+        # Notify Admin
+        try:
+            admin_id = int(ADMIN)
+            await self.send_message(admin_id, f"**{self.me.first_name} is started...**")
+        except Exception as e:
+            print(f"Error sending message to admin: {e}")
+
+        # Log to Channel
         if LOG_CHANNEL:
             try:
                 now = datetime.now(timezone("Asia/Kolkata"))
                 msg = (
-                    f"**{me.mention} is restarted!**\n\n"
+                    f"**{self.me.mention} is restarted!**\n\n"
                     f"📅 Date : `{now.strftime('%d %B, %Y')}`\n"
                     f"⏰ Time : `{now.strftime('%I:%M:%S %p')}`\n"
                     f"🌐 Timezone : `Asia/Kolkata`"
@@ -61,6 +71,8 @@ class Bot(Client):
 
     async def stop(self, *args):
         await super().stop()
-        print(f"{me.first_name} Bot stopped.")
+        print(f"🛑 {self.me.first_name} Bot stopped.")
+        for task in asyncio.all_tasks():
+            task.cancel()
 
 Bot().run()
